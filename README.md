@@ -10,7 +10,7 @@ Edit1.PreviewKeyDown += Edit1_PreviewKeyDown;
 }
 ```
 
-You can also use our PreviewKeyDown events to modify this Undo and Redo features using the following code:
+You can also use our PreviewKeyDown event to modify this Undo and Redo features using the following code:
 
 ```C#
 private void Edit1_PreviewKeyDown(object sender, System.Windows.Input.KeyEventArgs e)
