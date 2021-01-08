@@ -1,7 +1,7 @@
 # How-to-modify-or-disable-shortcuts-of-EditControl
 This repository contains the sample that how to modify or disable shortcuts of EditControl.
 
-The EditControl Undo and Redo functionality can be Modify or disable by using the IsUndoEnabled and IsRedoEnabled property of Editcontrol.
+The EditControl Undo and Redo functionality can be modify or disable by using the IsUndoEnabled and IsRedoEnabled property of Editcontrol.
 
 ```C#
 public Window1()
